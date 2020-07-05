@@ -1218,6 +1218,48 @@ select{
   font-size: 8px;
 }
 }
+
+
+
+@media (max-width: 373px) {
+  
+
+.ready a{
+  color: #fff;
+  background-color: #1B222C;
+  border:1px solid  #85E0CE;
+  padding: 2px 8px;
+  border-radius: 30px;
+  font-size: 8px;
+}
+}
+
+
+@media (max-width: 324px) {
+  
+
+.ready a{
+  color: #fff;
+  background-color: #1B222C;
+  border:1px solid  #85E0CE;
+  padding: 2px 6px;
+  border-radius: 30px;
+  font-size: 6px;
+}
+}
+
+@media (max-width: 263px) {
+  
+
+.ready a{
+  color: #fff;
+  background-color: #1B222C;
+  border:1px solid  #85E0CE;
+  padding: 2px 4px;
+  border-radius: 15px;
+  font-size: 4px;
+}
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
